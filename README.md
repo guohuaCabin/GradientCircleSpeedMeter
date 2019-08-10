@@ -1,0 +1,2 @@
+# GradientCircleSpeedMeter
+设计的一个渐变色的半圆速度盘，使用UIBezierPath、CAShapelayer做半圆的绘制，CAGradientLayer设置渐变色图层，
